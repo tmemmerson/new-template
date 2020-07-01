@@ -3,7 +3,6 @@ import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles.css';
 import {  } from './';
-import {  } from './';
 
 $(document).ready(function() {
   const usedPetNames = [];
